@@ -41,14 +41,14 @@ Los usuarios pueden filtrar información en tiempo real para obtener insights es
 
 ## 📝 Conclusiones y Recomendaciones
 🔹 Resultados Generales
-✔ La vacunación fue clave para el control de la pandemia.
-✔ Los países con mejores estrategias lograron una recuperación más rápida.
-✔ La inversión en infraestructura sanitaria influyó en la capacidad de respuesta.
+- La vacunación fue clave para el control de la pandemia.
+- Los países con mejores estrategias lograron una recuperación más rápida.
+- La inversión en infraestructura sanitaria influyó en la capacidad de respuesta.
 
 ## Estrategia de Expansión
-✔ Brasil: Alta demanda y robusta infraestructura.
-✔ México: Gran mercado farmacéutico.
-✔ Argentina: Recuperación estable y sistema de salud consolidado.
+- Brasil: Alta demanda y robusta infraestructura.
+- México: Gran mercado farmacéutico.
+- Argentina: Recuperación estable y sistema de salud consolidado.
 
 ## 💡 Reflexión Personal
 Este proyecto me permitió aplicar técnicas avanzadas en SQL, Python y Power BI, fortaleciendo mi capacidad analítica y estratégica.
